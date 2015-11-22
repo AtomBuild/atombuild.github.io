@@ -1,7 +1,7 @@
 # Site settings
-title: AtomLinter
-url: https://atomlinter.github.io
-description: Lint your code with ease in Atom.
+title: AtomBuild
+url: https://atombuild.github.io
+description: Integrate your Build System with Atom.
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
