@@ -73,6 +73,7 @@
       modal: swift
       packages:
         - title: build-xcodebuild
+          url: https://atom.io/packages/build-xcodebuild
 - systems:
   title: Task Runner
   modal: runner
