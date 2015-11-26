@@ -67,7 +67,7 @@
     - title: Objective-C++
       modal: mm
       packages:
-        - title: build-xcodebuid
+        - title: build-xcodebuild
           url: https://atom.io/packages/build-xcodebuild
     - title: Swift
       modal: swift
