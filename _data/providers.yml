@@ -49,6 +49,30 @@
           url: https://atom.io/packages/build-gradle
         - title: build-sbt
           url: https://atom.io/packages/build-sbt
+    - title: C
+      modal: c
+      packages:
+        - title: build-xcodebuild
+          url: https://atom.io/packages/build-xcodebuild
+    - title: C++
+      modal: cc
+      packages:
+        - title: build-xcodebuild
+          url: https://atom.io/packages/build-xcodebuild
+    - title: Objective-C
+      modal: m
+      packages:
+        - title: build-xcodebuild
+          url: https://atom.io/packages/build-xcodebuild
+    - title: Objective-C++
+      modal: mm
+      packages:
+        - title: build-xcodebuid
+          url: https://atom.io/packages/build-xcodebuild
+    - title: Swift
+      modal: swift
+      packages:
+        - title: build-xcodebuild
 - systems:
   title: Task Runner
   modal: runner
@@ -89,6 +113,11 @@
       packages:
         - title: build-sbt
           url: https://atom.io/packages/build-sbt
+    - title: Xcode
+      modal: xcode
+      packages:
+        - title: build-xcodebuild
+          url: https://atom.io/packages/build-xcodebuild
 - managers:
   title: Package Manager
   modal: manager
