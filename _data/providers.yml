@@ -119,6 +119,11 @@
       packages:
         - title: build-xcodebuild
           url: https://atom.io/packages/build-xcodebuild
+    - title: cocos2d-x
+      modal: cocos2d-x
+      packages:
+        - title: build-cocos
+          url: https://atom.io/packages/build-cocos
 - managers:
   title: Package Manager
   modal: manager
