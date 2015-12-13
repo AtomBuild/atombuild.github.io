@@ -124,6 +124,11 @@
       packages:
         - title: build-cocos
           url: https://atom.io/packages/build-cocos
+    - title: Rake
+      modal: rake
+      packages:
+        - title: build-rake
+          url: https://atom.io/packages/build-rake
 - managers:
   title: Package Manager
   modal: manager
