@@ -3,6 +3,11 @@
   modal: language
   types:
     # Anything which outright targets a specific language or languages belongs here.
+    - title: Processing
+      modal: Processing
+      packages:
+        - title: build-processing
+          url: https://atom.io/packages/build-processing
     - title: Markdown
       modal: markdown
       packages:
