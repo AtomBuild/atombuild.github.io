@@ -134,6 +134,11 @@
       packages:
         - title: build-rake
           url: https://atom.io/packages/build-rake
+    - title: busted
+      modal: busted
+      packages:
+        - title: build-busted
+          url: https://atom.io/packages/build-busted
 - managers:
   title: Package Manager
   modal: manager
