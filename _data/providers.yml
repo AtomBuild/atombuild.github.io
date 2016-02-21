@@ -79,6 +79,11 @@
       packages:
         - title: build-xcodebuild
           url: https://atom.io/packages/build-xcodebuild
+    - title: NSIS
+      modal: nsis
+      packages:
+        - title: build-makensis
+          url: https://atom.io/packages/build-makensis
 - systems:
   title: Task Runner
   modal: runner
