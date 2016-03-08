@@ -93,7 +93,7 @@
       modal: cmake
       packages:
         - title: build-cmake
-          url: https://github.com/siegelaaron94/atom-build-cmake.git
+          url: https://atom.io/packages/build-cmake
     - title: GNU Make
       modal: make
       packages:
