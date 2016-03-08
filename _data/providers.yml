@@ -89,6 +89,11 @@
   modal: runner
   types:
     # Anything that depends on a central build manifest and runs tasks defined in the manifest belongs here.
+    - title: CMake
+      modal: cmake
+      packages:
+        - title: build-cmake
+          url: https://atom.io/packages/build-cmake
     - title: GNU Make
       modal: make
       packages:
