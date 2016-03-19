@@ -84,6 +84,11 @@
       packages:
         - title: build-makensis
           url: https://atom.io/packages/build-makensis
+    - title: nsL Assembler
+      modal: nsl
+      packages:
+        - title: build-nsl
+          url: https://atom.io/packages/build-nsl
 - systems:
   title: Task Runner
   modal: runner
