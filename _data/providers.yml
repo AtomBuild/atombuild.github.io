@@ -89,6 +89,11 @@
       packages:
         - title: build-nsl
           url: https://atom.io/packages/build-nsl
+    - title: Haskell
+      modal: haskell
+      packages:
+        - title: build-stack
+          url: https://atom.io/packages/build-stack
 - systems:
   title: Task Runner
   modal: runner
