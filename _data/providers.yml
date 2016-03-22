@@ -97,8 +97,8 @@
     - title: AppleScript
       modal: applescript
       packages:
-        - title: build-osascript
-          url: https://atom.io/packages/build-osascript
+        - title: build-applescript
+          url: https://atom.io/packages/build-applescript
 - systems:
   title: Task Runner
   modal: runner
