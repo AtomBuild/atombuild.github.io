@@ -94,6 +94,11 @@
       packages:
         - title: build-stack
           url: https://atom.io/packages/build-stack
+    - title: AppleScript
+      modal: applescript
+      packages:
+        - title: build-osascript
+          url: https://atom.io/packages/build-osascript
 - systems:
   title: Task Runner
   modal: runner
