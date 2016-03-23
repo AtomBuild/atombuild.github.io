@@ -99,6 +99,11 @@
       packages:
         - title: build-applescript
           url: https://atom.io/packages/build-applescript
+    - title: PowerShell
+      modal: powershell
+      packages:
+        - title: build-powershell
+          url: https://atom.io/packages/build-powershell
 - systems:
   title: Task Runner
   modal: runner
