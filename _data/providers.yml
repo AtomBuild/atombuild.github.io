@@ -103,6 +103,11 @@
       packages:
         - title: build-powershell
           url: https://atom.io/packages/build-powershell
+    - title: CoffeeScript
+      modal: coffeescript
+      packages:
+        - title: build-coffeescript
+          url: https://atom.io/packages/build-coffeescript
 - systems:
   title: Task Runner
   modal: runner
