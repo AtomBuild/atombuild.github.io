@@ -84,6 +84,8 @@
       packages:
         - title: build-makensis
           url: https://atom.io/packages/build-makensis
+        - title: build-makensis-wine
+          url: https://atom.io/packages/build-makensis-wine
     - title: nsL Assembler
       modal: nsl
       packages:
