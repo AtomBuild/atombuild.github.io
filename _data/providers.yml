@@ -27,7 +27,7 @@
       packages:
         - title: build-gulp
           url: https://atom.io/packages/build-gulp
-          - title: build-coffeescript
+        - title: build-coffeescript
           url: https://atom.io/packages/build-coffeescript
     - title: Rust
       modal: rs
