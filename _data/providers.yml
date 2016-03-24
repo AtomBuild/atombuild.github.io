@@ -23,7 +23,7 @@
         - title: build-jpm
           url: https://atom.io/packages/build-jpm
     - title: CoffeeScript
-      modal: CoffeeScript
+      modal: coffee
       packages:
         - title: build-gulp
           url: https://atom.io/packages/build-gulp
