@@ -27,6 +27,8 @@
       packages:
         - title: build-gulp
           url: https://atom.io/packages/build-gulp
+          - title: build-coffeescript
+          url: https://atom.io/packages/build-coffeescript
     - title: Rust
       modal: rs
       packages:
@@ -103,12 +105,6 @@
       packages:
         - title: build-powershell
           url: https://atom.io/packages/build-powershell
-    - title: CoffeeScript
-      modal: coffeescript
-      packages:
-        - title: build-coffeescript
-          url: https://atom.io/packages/build-coffeescript
-- systems:
   title: Task Runner
   modal: runner
   types:
