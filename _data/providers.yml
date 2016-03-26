@@ -90,6 +90,8 @@
           url: https://atom.io/packages/build-makensis-wine
         - title: build-nsl
           url: https://atom.io/packages/build-nsl
+        - title: build-bridlensis
+          url: https://atom.io/packages/build-bridlensis
     - title: Haskell
       modal: haskell
       packages:
@@ -105,7 +107,7 @@
       packages:
         - title: build-powershell
           url: https://atom.io/packages/build-powershell
-    - title: InnoSetup
+    - title: Inno Setup
       modal: iss
       packages:
         - title: build-innosetup
