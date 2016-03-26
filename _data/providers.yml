@@ -105,6 +105,11 @@
       packages:
         - title: build-powershell
           url: https://atom.io/packages/build-powershell
+    - title: InnoSetup
+      modal: iss
+      packages:
+        - title: build-innosetup
+          url: https://atom.io/packages/build-innosetup
 - systems:
   title: Task Runner
   modal: runner
