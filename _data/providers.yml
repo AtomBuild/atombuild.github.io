@@ -214,3 +214,8 @@
       packages:
         - title: build-jpm
           url: https://atom.io/packages/build-jpm
+    - title: CSS
+      modal: css
+      packages:
+        - title: build-lessc
+          url: https://atom.io/packages/build-lessc
