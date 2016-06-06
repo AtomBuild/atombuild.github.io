@@ -121,6 +121,11 @@
           url: https://atom.io/packages/build-sass
         - title: build-sassc
           url: https://atom.io/packages/build-sassc
+    - title: Papyrus
+      modal: papyrus
+      packages:
+        - title: build-papyrus
+          url: https://atom.io/packages/build-papyrus
 - systems:
   title: Task Runner
   modal: runner
