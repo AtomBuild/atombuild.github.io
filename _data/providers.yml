@@ -191,6 +191,11 @@
       packages:
         - title: build-busted
           url: https://atom.io/packages/build-busted
+    - title: Ninja
+      modal: ninja
+      packages:
+        - title: build-ninja
+          url: https://atom.io/packages/build-ninja
 - managers:
   title: Package Manager
   modal: manager
