@@ -126,6 +126,11 @@
       packages:
         - title: build-papyrus
           url: https://atom.io/packages/build-papyrus
+    - title: Lua
+      modal: lua
+        packages:
+        - title: build-love
+        url: https://atom.io/packages/build-love
 - systems:
   title: Task Runner
   modal: runner
