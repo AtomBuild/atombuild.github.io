@@ -121,6 +121,8 @@
           url: https://atom.io/packages/build-sass
         - title: build-sassc
           url: https://atom.io/packages/build-sassc
+        - title: build-stylus
+          url: https://atom.io/packages/build-stylus
     - title: Papyrus
       modal: papyrus
       packages:
