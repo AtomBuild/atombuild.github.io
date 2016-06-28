@@ -133,6 +133,11 @@
       packages:
         - title: build-love
           url: https://atom.io/packages/build-love
+    - title: R
+      modal: r
+      packages:
+        - title: build-rscript
+          url: https://atom.io/packages/build-rscript
 - systems:
   title: Task Runner
   modal: runner
