@@ -133,6 +133,11 @@
       packages:
         - title: build-love
           url: https://atom.io/packages/build-love
+    - title: Tcl/Tk
+      modal: tcl
+      packages:
+        - title: build-tclsh
+          url: https://atom.io/packages/build-tclsh
 - systems:
   title: Task Runner
   modal: runner
