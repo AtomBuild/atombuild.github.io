@@ -143,6 +143,11 @@
       packages:
         - title: build-rscript
           url: https://atom.io/packages/build-rscript
+    - title: Batch
+      modal: batch
+      packages:
+        - title: build-cmd
+          url: https://atom.io/packages/build-cmd
 - systems:
   title: Task Runner
   modal: runner
