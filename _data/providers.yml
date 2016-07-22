@@ -148,6 +148,11 @@
       packages:
         - title: build-cmd
           url: https://atom.io/packages/build-cmd
+    - title: TypeScript
+      modal: ts
+      packages:
+        - title: build-tsc
+          url: https://atom.io/packages/build-tsc
 - systems:
   title: Task Runner
   modal: runner
