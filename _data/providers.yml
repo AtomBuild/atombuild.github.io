@@ -29,6 +29,8 @@
           url: https://atom.io/packages/build-gulp
         - title: build-coffee
           url: https://atom.io/packages/build-coffee
+        - title: build-iced
+          url: https://atom.io/packages/build-iced
     - title: Rust
       modal: rs
       packages:
