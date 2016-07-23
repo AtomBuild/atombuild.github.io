@@ -29,6 +29,8 @@
           url: https://atom.io/packages/build-gulp
         - title: build-coffee
           url: https://atom.io/packages/build-coffee
+        - title: build-iced
+          url: https://atom.io/packages/build-iced
     - title: Rust
       modal: rs
       packages:
@@ -123,6 +125,8 @@
           url: https://atom.io/packages/build-sassc
         - title: build-stylus
           url: https://atom.io/packages/build-stylus
+        - title: build-sugarss
+          url: https://atom.io/packages/build-sugarss
     - title: Papyrus
       modal: papyrus
       packages:
