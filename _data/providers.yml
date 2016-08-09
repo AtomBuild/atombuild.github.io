@@ -31,6 +31,8 @@
           url: https://atom.io/packages/build-coffee
         - title: build-iced
           url: https://atom.io/packages/build-iced
+        - title: build-decaffeinate
+          url: https://atom.io/packages/build-decaffeinate
     - title: Rust
       modal: rs
       packages:
