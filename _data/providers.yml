@@ -104,8 +104,8 @@
     - title: AppleScript
       modal: applescript
       packages:
-        - title: build-applescript
-          url: https://atom.io/packages/build-applescript
+        - title: build-osa
+          url: https://atom.io/packages/build-osa
     - title: PowerShell
       modal: powershell
       packages:
@@ -161,6 +161,11 @@
       packages:
         - title: build-tsc
           url: https://atom.io/packages/build-tsc
+    - title: JXA
+      modal: jxa
+      packages:
+        - title: build-osa
+          url: https://atom.io/packages/build-osa
 - systems:
   title: Task Runner
   modal: runner
