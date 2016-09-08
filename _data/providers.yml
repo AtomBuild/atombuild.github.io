@@ -166,6 +166,11 @@
       packages:
         - title: build-osa
           url: https://atom.io/packages/build-osa
+    - title: BuckleScript
+      modal: bsc
+      packages:
+        - title: build-bsc
+          url: https://atom.io/packages/build-bsc
 - systems:
   title: Task Runner
   modal: runner
