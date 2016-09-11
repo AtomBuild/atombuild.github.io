@@ -246,13 +246,8 @@
   modal: manager
   types:
     # Anything whose is package managment (includes dependency management and artifact deployment) belongs here.
-    - title: Node Package Manager
+    - title: Node/Atom Package Manager
       modal: npm
-      packages:
-        - title: build-npm-npm
-          url: https://atom.io/packages/build-npm-npm
-    - title: Atom Package Manager
-      modal: apm
       packages:
         - title: build-npm-apm
           url: https://atom.io/packages/build-npm-apm
