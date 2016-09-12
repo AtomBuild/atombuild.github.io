@@ -171,6 +171,11 @@
       packages:
         - title: build-bsc
           url: https://atom.io/packages/build-bsc
+    - title: Python
+      modal: python
+      packages:
+        - title: build-python
+          url: https://atom.io/packages/build-python
 - systems:
   title: Task Runner
   modal: runner
