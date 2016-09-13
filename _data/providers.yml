@@ -131,6 +131,8 @@
           url: https://atom.io/packages/build-sugarss
         - title: build-cssnext
           url: https://atom.io/packages/build-cssnext
+        - title: build-wt
+          url: https://atom.io/packages/build-wt
     - title: Papyrus
       modal: papyrus
       packages:
