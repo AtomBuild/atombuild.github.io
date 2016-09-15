@@ -178,6 +178,11 @@
       packages:
         - title: build-python
           url: https://atom.io/packages/build-python
+    - title: Oz
+      modal: oz
+      packages:
+        - title: build-ozc
+          url: https://atom.io/packages/build-ozc
 - systems:
   title: Task Runner
   modal: runner
