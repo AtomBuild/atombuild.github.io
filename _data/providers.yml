@@ -183,6 +183,11 @@
       packages:
         - title: build-ozc
           url: https://atom.io/packages/build-ozc
+    - title: LiveScript
+      modal: ls
+      packages:
+        - title: build-lsc
+          url: https://atom.io/packages/build-lsc
 - systems:
   title: Task Runner
   modal: runner
