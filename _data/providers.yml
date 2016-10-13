@@ -294,4 +294,4 @@
       modal: catkin build
       packages:
         - title: build-catkin-tools
-          url: https://github.com/artivis/atom-buils-catkin-tools
+          url: https://github.com/artivis/atom-build-catkin-tools
