@@ -290,3 +290,8 @@
       packages:
         - title: build-jpm
           url: https://atom.io/packages/build-jpm
+    - title: catkin_tools
+      modal: catkin build
+      packages:
+        - title: build-catkin-tools
+          url: https://github.com/artivis/atom-buils-catkin-tools
