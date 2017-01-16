@@ -133,6 +133,8 @@
           url: https://atom.io/packages/build-cssnext
         - title: build-wt
           url: https://atom.io/packages/build-wt
+        - title: build-dart-sass
+          url: https://atom.io/packages/build-dart-sass
     - title: Papyrus
       modal: papyrus
       packages:
