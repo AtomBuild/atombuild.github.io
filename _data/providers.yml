@@ -260,6 +260,11 @@
       packages:
         - title: build-ninja
           url: https://atom.io/packages/build-ninja
+    - title: SCons
+      modal: scons
+      packages:
+        - title: build-scons
+          url: https://atom.io/packages/build-scons
 - managers:
   title: Package Manager
   modal: manager
