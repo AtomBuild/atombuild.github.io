@@ -190,6 +190,11 @@
       packages:
         - title: build-lsc
           url: https://atom.io/packages/build-lsc
+    - title: OCaml
+      modal: ocaml
+      packages:
+        - title: build-oasis
+          url: https://atom.io/packages/build-oasis
 - systems:
   title: Task Runner
   modal: runner
