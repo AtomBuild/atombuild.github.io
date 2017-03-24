@@ -197,6 +197,11 @@
           url: https://atom.io/packages/build-oasis
         - title: build-ocaml
           url: https://atom.io/packages/build-ocaml
+    - title: F#
+      modal: fable
+      packages:
+        - title: build-fable
+          url: https://atom.io/packages/build-fable
 - systems:
   title: Task Runner
   modal: runner
