@@ -277,6 +277,11 @@
       packages:
         - title: build-scons
           url: https://atom.io/packages/build-scons
+    - title: mbed
+      modal: mbed
+      packages:
+        - title: build-mbed
+          url: https://atom.io/packages/build-mbed
 - managers:
   title: Package Manager
   modal: manager
