@@ -202,6 +202,11 @@
       packages:
         - title: build-fable
           url: https://atom.io/packages/build-fable
+    - title: Pascal
+      modal: pascal
+      packages:
+        - title: build-fpc
+          url: https://atom.io/packages/build-fpc
 - systems:
   title: Task Runner
   modal: runner
