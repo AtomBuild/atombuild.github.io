@@ -297,6 +297,10 @@
       packages:
         - title: build-npm-apm
           url: https://atom.io/packages/build-npm-apm
+    - title: Bazel
+      modal: BUILD WORKSPACE bzl
+        - title: build-bazel
+          url: https://atom.io/packages/build-bazel
     - title: Cargo
       modal: cargo
       packages:
