@@ -65,11 +65,15 @@
       packages:
         - title: build-xcodebuild
           url: https://atom.io/packages/build-xcodebuild
+        - title: build-eclipse
+          url: https://atom.io/packages/build-eclipse
     - title: C++
       modal: cc
       packages:
         - title: build-xcodebuild
           url: https://atom.io/packages/build-xcodebuild
+        - title: build-eclipse
+          url: https://atom.io/packages/build-eclipse
     - title: Objective-C
       modal: m
       packages:
