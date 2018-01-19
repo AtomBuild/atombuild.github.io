@@ -182,6 +182,8 @@
     - title: Python
       modal: python
       packages:
+        - title: build-pynsist
+          url: https://atom.io/packages/build-pynsist
         - title: build-python
           url: https://atom.io/packages/build-python
     - title: Oz
