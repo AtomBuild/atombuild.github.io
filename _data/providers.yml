@@ -213,6 +213,11 @@
       packages:
         - title: build-fpc
           url: https://atom.io/packages/build-fpc
+    - title: LaTeX
+      model: latex
+      packages:
+        - title: build-latex
+          url: https://atom.io/packages/build-latex
 - systems:
   title: Task Runner
   modal: runner
