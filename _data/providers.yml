@@ -218,6 +218,11 @@
       packages:
         - title: build-latex
           url: https://atom.io/packages/build-latex
+    - title: Ruby
+      model: ruby
+      packages:
+        - title: build-homebrew
+          url: https://atom.io/packages/build-homebrew
 - systems:
   title: Task Runner
   modal: runner
