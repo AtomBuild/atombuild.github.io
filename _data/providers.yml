@@ -223,6 +223,11 @@
       packages:
         - title: build-homebrew
           url: https://atom.io/packages/build-homebrew
+    - title: Elm
+      model: elm
+      packages:
+        - title: build-elm-analyse
+          url: https://atom.io/packages/build-elm-analyse
 - systems:
   title: Task Runner
   modal: runner
