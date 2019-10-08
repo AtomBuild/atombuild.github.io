@@ -1,0 +1,32 @@
+{
+  "name": "@atombuild/website",
+  "private": true,
+  "version": "0.0.0-development",
+  "description": "Website for the AtomBuild project, currating AtomBuild providers",
+  "scripts": {
+    "develop": "gatsby develop",
+    "build": "gatsby build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AtomBuild/atombuild.github.io.git"
+  },
+  "keywords": [
+    "website",
+    "atom",
+    "gatsby"
+  ],
+  "license": "Apache2",
+  "bugs": {
+    "url": "https://github.com/AtomBuild/atombuild.github.io/issues"
+  },
+  "homepage": "https://github.com/AtomBuild/atombuild.github.io#readme",
+  "dependencies": {
+    "gatsby": "^2.15.33",
+    "gatsby-plugin-manifest": "^2.2.20",
+    "gatsby-plugin-offline": "^3.0.12",
+    "gatsby-theme-atom-service": "^1.0.2",
+    "react": "^16.10.2",
+    "react-dom": "^16.10.2"
+  }
+}
