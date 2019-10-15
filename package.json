@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/AtomBuild/atombuild.github.io#readme",
   "dependencies": {
-    "gatsby": "^2.16.0",
+    "gatsby": "^2.16.3",
     "gatsby-plugin-manifest": "^2.2.23",
     "gatsby-plugin-offline": "^3.0.16",
     "gatsby-theme-atom-service": "^1.0.10",
