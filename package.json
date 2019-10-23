@@ -27,6 +27,6 @@
     "gatsby-plugin-offline": "^3.0.16",
     "gatsby-theme-atom-service": "^1.0.16",
     "react": "^16.10.2",
-    "react-dom": "^16.10.2"
+    "react-dom": "^16.11.0"
   }
 }
