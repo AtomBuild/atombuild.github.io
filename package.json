@@ -4,8 +4,9 @@
   "version": "0.0.0-development",
   "description": "Website for the AtomBuild project, currating AtomBuild providers",
   "scripts": {
-    "develop": "gatsby develop",
-    "build": "gatsby build"
+    "develop": "carraway develop",
+    "build": "carraway build",
+    "clean": "carraway clean"
   },
   "repository": {
     "type": "git",
@@ -22,11 +23,54 @@
   },
   "homepage": "https://github.com/AtomBuild/atombuild.github.io#readme",
   "dependencies": {
+    "carraway": "^1.0.0",
     "gatsby": "^2.17.7",
     "gatsby-plugin-manifest": "^2.2.26",
     "gatsby-plugin-offline": "^3.0.17",
     "gatsby-theme-atom-service": "^1.0.20",
     "react": "^16.11.0",
     "react-dom": "^16.11.0"
+  },
+  "gatsby": {
+    "siteMetadata": {
+      "title": "AtomBuild",
+      "siteUrl": "https://atombuild.github.io",
+      "description": "Integrate your Build System with Atom.",
+      "color": {
+        "primary": "#efeae1",
+        "secondary": "#66595c",
+        "active": "#81c08b"
+      },
+      "nav": [
+        {
+          "name": "Atom Package Manager",
+          "url": "https://atom.io/packages/build"
+        },
+        {
+          "name": "Slack",
+          "url": "https://atom-slack.herokuapp.com/"
+        },
+        {
+          "name": "GitHub",
+          "url": "https://github.com/noseglid/atom-build"
+        }
+      ]
+    },
+    "plugins": [
+      "gatsby-theme-atom-service",
+      {
+        "resolve": "gatsby-plugin-manifest",
+        "options": {
+          "name": "AtomBuild",
+          "short_name": "AtomBuild",
+          "start_url": "/",
+          "background_color": "#66595c",
+          "theme_color": "#efeae1",
+          "display": "minimal-ui",
+          "icon": "content/assets/logo.svg"
+        }
+      },
+      "gatsby-plugin-offline"
+    ]
   }
 }
