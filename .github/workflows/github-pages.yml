@@ -1,0 +1,28 @@
+name: GitHub Pages
+
+on:
+  push:
+    branches:
+      - source
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout
+      - name: Setup Node.js
+        uses: actions/setup-node
+      - name: Install Dependencies
+        run: npm install
+      - name: Build Website
+        run: npm run build
+      - name: Deploy to GitHub Pages
+        if: success()
+        uses: crazy-max/ghaction-github-pages
+        with:
+          target_branch: master
+          build_dir: public
+        env:
+          GITHUB_PAT: ${{ secrets.GITHUB_PAT }}
