@@ -26,7 +26,7 @@
     "carraway": "^1.0.8",
     "gatsby": "^2.18.22",
     "gatsby-plugin-manifest": "^2.2.37",
-    "gatsby-plugin-offline": "^3.0.31",
+    "gatsby-plugin-offline": "^3.0.32",
     "gatsby-theme-atom-service": "^1.1.33",
     "react": "^16.12.0",
     "react-dom": "^16.12.0"
