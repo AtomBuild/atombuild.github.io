@@ -27,7 +27,7 @@
     "gatsby": "^2.19.5",
     "gatsby-plugin-manifest": "^2.2.38",
     "gatsby-plugin-offline": "^3.0.32",
-    "gatsby-theme-atom-service": "^1.1.44",
+    "gatsby-theme-atom-service": "^1.1.45",
     "react": "^16.12.0",
     "react-dom": "^16.12.0"
   },
