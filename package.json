@@ -25,7 +25,7 @@
   "dependencies": {
     "carraway": "^1.0.14",
     "gatsby": "^2.19.49",
-    "gatsby-plugin-manifest": "^2.3.0",
+    "gatsby-plugin-manifest": "^2.3.1",
     "gatsby-plugin-offline": "^3.0.42",
     "gatsby-theme-atom-service": "^1.1.89",
     "react": "^16.13.1",
