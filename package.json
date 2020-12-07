@@ -24,7 +24,7 @@
   "homepage": "https://github.com/AtomBuild/atombuild.github.io#readme",
   "dependencies": {
     "carraway": "^1.0.38",
-    "gatsby": "^2.28.0",
+    "gatsby": "^2.28.1",
     "gatsby-plugin-manifest": "^2.8.0",
     "gatsby-plugin-offline": "^3.6.0",
     "gatsby-theme-atom-service": "^1.1.262",
