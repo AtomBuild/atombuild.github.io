@@ -29,7 +29,7 @@
     "gatsby-plugin-offline": "^3.10.0",
     "gatsby-theme-atom-service": "^1.1.284",
     "react": "^17.0.1",
-    "react-dom": "^16.14.0"
+    "react-dom": "^17.0.1"
   },
   "gatsby": {
     "siteMetadata": {
