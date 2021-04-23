@@ -22,6 +22,8 @@
           url: https://atom.io/packages/build-grunt
         - title: build-jpm
           url: https://atom.io/packages/build-jpm
+        - title: build-meson
+          url: https://atom.io/packages/build-meson
     - title: CoffeeScript
       modal: coffee
       packages:
@@ -67,6 +69,8 @@
           url: https://atom.io/packages/build-xcodebuild
         - title: build-eclipse
           url: https://atom.io/packages/build-eclipse
+        - title: build-meson
+          url: https://atom.io/packages/build-meson
     - title: C++
       modal: cc
       packages:
@@ -74,6 +78,13 @@
           url: https://atom.io/packages/build-xcodebuild
         - title: build-eclipse
           url: https://atom.io/packages/build-eclipse
+        - title: build-meson
+          url: https://atom.io/packages/build-meson
+    - title: C#
+      modal: csharp
+      packages:
+        - title: build-meson
+          url: https://atom.io/packages/build-meson
     - title: Objective-C
       modal: m
       packages:
@@ -186,6 +197,8 @@
           url: https://atom.io/packages/build-pynsist
         - title: build-python
           url: https://atom.io/packages/build-python
+        - title: build-meson
+          url: https://atom.io/packages/build-meson
     - title: Oz
       modal: oz
       packages:
@@ -228,6 +241,11 @@
       packages:
         - title: build-elm-analyse
           url: https://atom.io/packages/build-elm-analyse
+    - title: Vala
+      modal: vala
+      packages:
+        - title: build-meson
+          url: https://atom.io/packages/build-meson
 - systems:
   title: Task Runner
   modal: runner
@@ -293,6 +311,11 @@
       packages:
         - title: build-busted
           url: https://atom.io/packages/build-busted
+    - title: Meson
+      modal: meson
+      packages:
+        - title: build-meson
+          url: https://atom.io/packages/build-meson
     - title: Ninja
       modal: ninja
       packages:
